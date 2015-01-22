@@ -1,6 +1,6 @@
 # TravisCI config file. See http://travis-ci.org
 language: python
-build_image: shippable/minv2:beta 
+#build_image: shippable/minv2:beta 
 python:
   - 2.6
   - 2.7
